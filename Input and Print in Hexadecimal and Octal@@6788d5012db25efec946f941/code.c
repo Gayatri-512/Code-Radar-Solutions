@@ -1,7 +1,7 @@
 #include <stdio.h>
-void main() {
+int main() {
     int a;
     scanf("%d",&a);
-    printf("Hexadecimal: %x", a);
+    printf("Hexadecimal: %X", a);
     return 0;
 }
