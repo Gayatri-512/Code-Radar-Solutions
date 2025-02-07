@@ -8,7 +8,7 @@ int main() {
         printf("%d",great);
     }
     else {
-        c=b;
+        great=b;
         printf("%d",great);
     }
     return 0;
