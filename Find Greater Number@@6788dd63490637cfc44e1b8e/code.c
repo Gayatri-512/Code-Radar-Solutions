@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    int a ,b , c;
+    int a ,b , great;
     scanf("%d %d",&a,&b);
     great = a;
     if (b>a){
