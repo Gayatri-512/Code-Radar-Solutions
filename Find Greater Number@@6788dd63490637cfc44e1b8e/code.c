@@ -4,7 +4,6 @@ int main() {
     scanf("%d %d",&a,&b);
     great = a;
     if (a>b){
-        great=a;
         printf("%d",great);
     }
     else {
