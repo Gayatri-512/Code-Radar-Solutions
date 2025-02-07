@@ -3,11 +3,11 @@ int main() {
     int a ,b , c;
     scanf("%d %d",&a,&b);
     great = a;
-    if (a>b){
+    if (b>a){
+        great=b;
         printf("%d",great);
     }
     else {
-        great=b;
         printf("%d",great);
     }
     return 0;
