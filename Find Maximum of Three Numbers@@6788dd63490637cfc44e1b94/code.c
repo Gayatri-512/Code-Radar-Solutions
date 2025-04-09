@@ -8,6 +8,6 @@ int main() {
     }
     else if(c>max){
         max=c;
-    }printf("Maximum is: %d\n", max); 
+    }printf("%d", max); 
     return 0;
 }
