@@ -2,8 +2,9 @@
 int main(
     int n;
     scanf("%d",&n);
+    int arr[1000];
+
     for(int i=0; i<n; i++){
-        int arr[1000];
         scanf("%d",&arr[i]);
     }
     int lower=0 , higher = 0;
